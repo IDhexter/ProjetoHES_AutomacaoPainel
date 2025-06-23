@@ -1,4 +1,4 @@
-# Projeto "Automação Painel Simplificado" Hospital Evangélico
+# Projeto "Automação Simplificada" Hospital Evangélico
 
 Inicialmente foi feita uma automação via "AutoHotKey", porém há dois tipos de paineis;
 Um onde é aberto o Soul MV (Que necessita de automação) localizado no Pronto Atendimento e outro é exibido apenas uma Dashboard (Que não necessita de automação) que é exibida nos postos,
