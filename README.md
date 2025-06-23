@@ -27,7 +27,7 @@ Coloque o caminho com o nome correto do seu atalho aqui usamos a unidade C\ e o 
        start "" "C:\PainelMV.lnk"
        exit
 
-4. No gerenciador de Tarefas do Windows (taskschd.msc), crie um agendamento para sempre executar esse scrip apos o logon do usuario.
+4. No gerenciador de Tarefas do Windows (taskschd.msc), crie um agendamento para sempre executar esse .bat apos o logon do usuario, aponte o caminho onde ele esta.
 
 ![Logon](https://i.ibb.co/pjypB6Hc/Apos-Logon.jpg)
 
